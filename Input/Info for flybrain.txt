@@ -1,0 +1,29 @@
+Confocal scan of a Drosophila brain. Green shows an nc82 
+antibody staining,  red the expression pattern of the GAL4 
+driver line 78y. The original image was smoothed and 
+resampled 4 times in each direction. The brain was  prepared 
+and scanned in the Heisenberg lab in Wuerzburg, Germany. 
+Courtesy of Benjamin Schmid, author of the ImageJ 3D Viewer
+(http://www.neurofly.de/).
+--------------------------------------------
+(Fiji Is Just) ImageJ 2.14.0/1.54f; Java 1.8.0_172 [64-bit]; Windows 10 10.0; 294MB of 48953MB (<1%)
+ 
+Title: flybrain.tif
+Width:  684.9333 µm (256)
+Height:  684.9333 µm (256)
+Depth:  225 µm (57)
+Size:  14MB
+Resolution:  0.3738 pixels per µm
+Voxel size: 2.6755x2.6755x3.9474 µm^3
+ID: -3
+Bits per pixel: 32 (RGB)
+Image: 28/57
+No threshold
+ScaleToFit: false
+Uncalibrated
+URL: http://imagej.net/images/flybrain.zip
+Screen location: 412,190 (2560x1440)
+Coordinate origin:  0,0,0
+No properties
+No overlay
+No selection
